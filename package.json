@@ -1,0 +1,51 @@
+{
+  "name": "@unsmudged/remark-preset-lint",
+  "version": "0.0.1",
+  "description": "A Remark Lint preset which pulls in other @unsmudged presets.  The intention of the @unsmudged presets are to assist reading and writing Markdown documents and improve overall accessibility for the community as a whole.",
+  "keywords": [],
+  "homepage": "https://unsmudged.github.io",
+  "bugs": {
+    "url": "https://github.com/unsmudged/remark-preset-lint/issues",
+    "email": "unsmudged@artisteducator.com"
+  },
+  "license": "(MIT AND CC-BY-SA-4.0)",
+  "author": {
+    "name": "Ross Clark",
+    "email": "unsmudged@artisteducator.com",
+    "url": "http://unsmudged.github.io/"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "contributors": [],
+  "files": [],
+  "main": "",
+  "browser": "",
+  "directories": {
+    "bin": "",
+    "lib": "",
+    "man": "",
+    "doc": "",
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unsmudged/remark-lint-preset.git"
+  },
+  "scripts": {},
+  "config": {},
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  },
+  "peerDependencies": {},
+  "bundledDependencies§": {},
+  "optionalDependencies": {},
+  "engines": {},
+  "os": [],
+  "cpu": [],
+  "private": true,
+  "publishConfig": {}
+}
